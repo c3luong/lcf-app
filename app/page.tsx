@@ -19,7 +19,7 @@ export default function Home() {
           <div className="flex flex-column text-center content-between py-8">
             <div className="flex flex-col w-1/3">
               <div className="tracking-wide">Location</div>
-              <div className="font-mono text-sm">519 Main Street, <br /> Shediac, NB, Canada, <br />  E4P 2C4 </div>
+              <div className="font-mono text-sm">519 Main Street, <br /> Shediac, NB E4P 2C4</div>
             </div>
             <div className="flex flex-col w-1/3">
               <div className="tracking-wide">Hours</div>
