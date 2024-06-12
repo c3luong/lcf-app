@@ -17,15 +17,15 @@ export default function Home() {
         <div className="py-4"> 
           <hr />
           <div className="flex md:flex-row flex-col text-center content-between py-8">
-            <div className="flex flex-col md:w-1/3 py-4">
+            <div className="flex flex-col md:w-1/3 md:py-0 py-4">
               <div className="tracking-widest	">Location</div>
               <div className="font-mono text-sm">519 Main Street, <br /> Shediac, NB E4P 2C4</div>
             </div>
-            <div className="flex flex-col md:w-1/3 py-4">
+            <div className="flex flex-col md:w-1/3 md:py-0 py-4">
               <div className="tracking-widest">Hours</div>
               <div className="font-mono text-sm">Mon & Wed-Sun: 11AM - 8PM <br /> Tues: Closed</div>
             </div>
-            <div className="flex flex-col md:w-1/3 py-4">
+            <div className="flex flex-col md:w-1/3 md:py-0 py-4">
               <div className="tracking-widest">Phone</div>
               <div className="font-mono text-sm"> 506-532-1313 </div>
             </div>
