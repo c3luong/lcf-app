@@ -3,7 +3,7 @@ export default function Home() {
     <main className="flex flex-row min-h-screen min-w-full bg-red justify-center text-base md:text-2xl text-white">
       <div className="flex max-w-screen-md grow flex-col justify-between max-h-[650px]">
         <div className="flex flex-row p-4"> 
-          <div className="w-1/4 hover:underline"> <a href="https://squareup.com/ca/en/online-ordering">Menu</a></div>
+          <div className="w-1/4 hover:underline tracking-wide"> <a href="https://squareup.com/ca/en/online-ordering">Menu</a></div>
           <div className="w-1/2 text-center font-mono text-xs content-center"> EN | <a className="hover:underline" href="https://google.ca">FR</a></div>
           <div className="w-1/4"> &nbsp; </div>
         </div>
